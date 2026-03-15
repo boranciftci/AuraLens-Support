@@ -64,4 +64,4 @@ AuraLens is not a medical device and does not provide medical diagnoses, treatme
 We may update this Privacy Policy from time to time. Any changes will be reflected in the "Last Updated" date above.
 
 ### 9. Contact Us
-If you have questions about this Privacy Policy, please contact us at: **borannciftci@gmail.com**
+If you have questions about this Privacy Policy, please contact us at: **auralenscare@gmail.com**
