@@ -4,7 +4,7 @@
 
   ---
 
-  ## Support Page
+  #   Support Page
 
   **Welcome to AuraLens Support**
 
