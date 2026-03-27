@@ -133,6 +133,34 @@ For questions about these Terms of Service, contact us at: **auralenscare@gmail.
 
 ---
 
+## Facial & Photo Data                                                     
+
+  **What face data we collect:** AuraLens captures standard JPEG photographs    
+  via your device camera or photo library. We use Apple's on-device Vision
+  framework solely to verify a face is present in the photo. No biometric       
+  identifiers, facial geometry, or faceprints are extracted or stored.          
+   
+  **How we use face data:** Photos are used exclusively for AI-powered skin     
+  health analysis. Images are sent to Anthropic's Claude API via encrypted   
+  HTTPS to generate text-based skincare recommendations. Apple's Vision         
+  framework processes face detection entirely on your device — no data          
+  leaves your phone for this step.                                              
+                                                                                
+  **Third-party sharing:** Photos are transmitted only to Anthropic's Claude    
+  API for analysis. Per Anthropic's API data usage policy, images are processed
+  transiently and are not retained after the response is generated. No other    
+  third parties receive your photos.                                         
+                                                                                
+  **Storage:** All photos and analysis results are stored locally on your       
+  device only. We do not upload photos to any external server or cloud storage.
+                                                                                
+  **Retention & Deletion:** Analysis history photos are retained on your        
+  device until you delete them. You can delete individual analyses or all       
+  data at any time from within the app. 7-day challenge photos are              
+  automatically cleared when the challenge is completed or reset.               
+  No face data is retained on any remote server.
+
+
 ## 🔒 Privacy Policy
 
 **Last Updated:** March 22, 2026
