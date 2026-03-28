@@ -37,7 +37,7 @@ For any questions, issues, or feedback, reach us at: **auralenscare@gmail.com**
 
 ## 📜 Terms of Service
 
-**Last Updated:** March 22, 2026
+**Last Updated:** March 28, 2026
 
 ### 1. Acceptance of Terms
 
@@ -133,37 +133,24 @@ For questions about these Terms of Service, contact us at: **auralenscare@gmail.
 
 ---
 
-## Facial & Photo Data                                                     
+## 🧬 Facial & Photo Data
 
-  **What face data we collect:** AuraLens captures standard JPEG photographs    
-  via your device camera or photo library. We use Apple's on-device Vision
-  framework solely to verify a face is present in the photo. No biometric       
-  identifiers, facial geometry, or faceprints are extracted or stored.          
-   
-  **How we use face data:** Photos are used exclusively for AI-powered skin     
-  health analysis. Images are sent to Anthropic's Claude API via encrypted   
-  HTTPS to generate text-based skincare recommendations. Apple's Vision         
-  framework processes face detection entirely on your device — no data          
-  leaves your phone for this step.                                              
-                                                                                
-  **Third-party sharing:** Photos are transmitted only to Anthropic's Claude    
-  API for analysis. Per Anthropic's API data usage policy, images are processed
-  transiently and are not retained after the response is generated. No other    
-  third parties receive your photos.                                         
-                                                                                
-  **Storage:** All photos and analysis results are stored locally on your       
-  device only. We do not upload photos to any external server or cloud storage.
-                                                                                
-  **Retention & Deletion:** Analysis history photos are retained on your        
-  device until you delete them. You can delete individual analyses or all       
-  data at any time from within the app. 7-day challenge photos are              
-  automatically cleared when the challenge is completed or reset.               
-  No face data is retained on any remote server.
+AuraLens collects and processes facial photographs for skin analysis. This section explains exactly how your face data is handled.
 
+| | Details |
+|---|---|
+| 📸 **What we collect** | Standard JPEG photographs captured via your device camera or photo library. We use Apple's on-device Vision framework solely to verify a face is present in the photo. **No biometric identifiers, facial geometry, faceprints, or Face ID data are extracted or stored.** |
+| 🎯 **How we use it** | Photos are used exclusively for AI-powered skin health analysis. Your facial photo is sent to Anthropic's Claude AI via encrypted HTTPS to generate text-based skin condition assessments and personalized skincare recommendations. Apple's Vision framework processes face detection **entirely on your device** — no data leaves your phone for this step. |
+| 🔄 **Third-party sharing** | Photos are transmitted **only** to Anthropic's Claude API for analysis. Per Anthropic's API data usage policy, images are processed transiently, are **not retained** after the response is generated, and are **not used for model training**. No other third parties receive your photos. |
+| 💾 **Storage** | All photos and analysis results are stored **locally on your device only**. We do not upload or store photos on any external server or cloud storage. |
+| ⏱️ **Retention & Deletion** | Analysis history photos are retained on your device until you manually delete them. You can delete individual analyses or all data at any time from within the app. 7-day challenge photos are automatically cleared when the challenge is completed or reset. **No face data is retained on any remote server.** |
+| ✅ **Your consent** | The app displays a clear consent dialog before any facial photo is transmitted to the AI service. You must explicitly agree before any data is sent. If you decline, no photo data is transmitted. |
+
+---
 
 ## 🔒 Privacy Policy
 
-**Last Updated:** March 22, 2026
+**Last Updated:** March 28, 2026
 
 ### 1. Introduction
 
@@ -203,7 +190,7 @@ AuraLens is not intended for children under the age of 13. We do not knowingly c
 
 ### 7. Medical Disclaimer
 
-⚠️ **AuraLens is NOT a medical device and does NOT provide medical advice.**
+**AuraLens is NOT a medical device and does NOT provide medical advice.**
 
 The App does not diagnose medical conditions, prescribe treatments, or offer professional dermatological consultations. All AI-generated analysis, scores, suggestions, and skincare routines are for **general informational and entertainment purposes only**. The AI may produce inaccurate or incomplete results.
 
@@ -241,4 +228,3 @@ If you have questions about this Privacy Policy, please contact us at: **auralen
 ---
 
 *AuraLens is designed for informational and entertainment purposes only. AI analysis may be inaccurate. Always consult a healthcare professional for medical advice.*
-
